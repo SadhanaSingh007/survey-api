@@ -1,0 +1,16 @@
+{
+  "name": "survey",
+  "version": "1.0.0",
+  "description": "Survey",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "jest"
+  },
+  "author": "Sadhana Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
